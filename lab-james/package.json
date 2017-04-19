@@ -1,0 +1,26 @@
+{
+  "name": "lab-james",
+  "version": "1.0.0",
+  "description": "401 class 02 lab",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+    "lint": "eslint ./lib"
+  },
+  "keywords": [
+    "call",
+    "apply",
+    "node",
+    "test",
+    "mocha"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "mocha": "^3.2.0"
+  }
+}
