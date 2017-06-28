@@ -7,8 +7,9 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
-    "lint": "eslint ./lib"
+    "test": "mocha",
+    "lint": "eslint ./lib",
+    "start": "node index.js"
   },
   "keywords": [
     "call",
